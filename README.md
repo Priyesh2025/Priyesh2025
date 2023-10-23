@@ -1,3 +1,5 @@
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+
 ![Priyesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyesh2025&hide=issues,stars&show_icons=true&rank_icon=github&theme=codeSTACKr)
 
 
@@ -7,4 +9,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyesh2025&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="down" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+
