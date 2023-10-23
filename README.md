@@ -7,3 +7,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyesh2025&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<img align="down" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
